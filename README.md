@@ -19,7 +19,7 @@ Simple program that lists USER_NAME Github public repositories.
         --help            Show this message and exit.
 ```
 
-### Dependancies:
+### Dependencies:
 
    - Language:  
       - Python 3.6  
