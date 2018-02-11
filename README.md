@@ -21,9 +21,9 @@ Simple program that lists USER_NAME Github repositories
 
 ### Dependancies:
 
-    - Language:  
+   - Language:  
       - Python 3.6  
-    - Requests:  
+   - Requests:  
       - run `pip install requests`  
-    - Click:  
+   - Click:  
       - run `pip install click`
