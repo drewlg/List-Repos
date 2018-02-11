@@ -1,5 +1,5 @@
 # List-Repos
-Simple program that lists USER_NAME Github public repositories
+Simple program that lists USER_NAME Github public repositories.
 
 ## Instructions:
 1. Download ListRepos.py file to local computer.
