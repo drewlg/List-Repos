@@ -6,7 +6,7 @@ Simple program that lists USER_NAME Github repositories
 2. Open the terminal and navigate to the directory the file was cloned into (`cd [path]`).
 3. Run:
     - To deploy `python ListRepos.py`
-    - For Help  `python ListRepos.py --h`
+    - For Help `python ListRepos.py --h`
    
 ### Help:
 ```bash
