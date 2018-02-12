@@ -5,7 +5,8 @@ Simple program that lists USER_NAME Github public repositories.
 1. Download ListRepos.py file to local computer.
 2. Open the terminal and navigate to the directory the file was cloned into (`cd [path]`).
 3. Run:
-    - To deploy `python ListRepos.py`
+    - To deploy `python ListRepos.py`  
+        or `python ListRepos.py --user_name [USER_NAME]`
     - For Help `python ListRepos.py --h`
    
 ### Help:
@@ -15,7 +16,7 @@ Simple program that lists USER_NAME Github public repositories.
       Simple program that lists USER_NAME Github repositories.
 
       Options:
-        --user_name TEXT  Github Username. Default:PyAntony
+        --user_name TEXT  Github Username. Example:PyAntony.
         --help            Show this message and exit.
 ```
 
