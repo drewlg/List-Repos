@@ -3,7 +3,7 @@ import requests as rq
 import click
 
 @click.command()
-@click.option('--user_name', prompt='\nEnter Github user name (Default:PyAntony)', help='Github Username. Default:PyAntony')
+@click.option('--user_name', prompt='\nEnter Github user name (developer name:PyAntony)', help='Github Username. Example:PyAntony')
 
 
 def main(user_name):
