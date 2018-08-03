@@ -9,7 +9,7 @@ import click
 def main(user_name):
     
     """Simple program that lists USER_NAME Github repositories."""
-    
+    print('LIST REPO')
     num = 0
     repo_list = list()
 
