@@ -1,7 +1,7 @@
 # List-Repos
 Simple program that lists USER_NAME Github public repositories.
 
-## Instructions:
+### Instructions:
 1. Download ListRepos.py file to local computer. 
 2. Open the terminal and navigate to the directory the file was cloned into (`cd [path]`).
 3. Run:
